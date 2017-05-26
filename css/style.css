@@ -8,4 +8,9 @@ body{
 
 .navbar{
 	margin-bottom:0px;
+	border:none;
+}
+
+.navbar-collapse{
+	padding:0px;
 }
