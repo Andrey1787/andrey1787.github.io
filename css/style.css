@@ -35,3 +35,8 @@ body{
 .navbar-collapse{
 	padding:0px;
 }
+
+.logo{
+	border:2px solid #fff;
+	box-shadow:5px 5px 3px rgba(0, 0, 0, .7);
+}
