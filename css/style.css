@@ -15,6 +15,10 @@ body{
 	font-size:50px;
 }
 
+.shadow{
+	text-shadow:5px 5px 3px rgba(0, 0, 0, .7);
+}
+
 .blue{
 	color:#2B1BF5;
 }
