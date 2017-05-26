@@ -2,6 +2,10 @@ body{
 	background:#ccc;
 }
 
+.container-fluid{
+	background:#3870C2;
+}
+
 .menu{
 	background:#222;
 }
