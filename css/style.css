@@ -1,5 +1,18 @@
+@font-face{
+	font-family: Ghost;
+	src:url(../fonts/ghost.ttf);
+}
+
 body{
 	background:#3ECBD2;
+}
+
+.ghost{
+	font-family:Ghost;
+}
+
+.big{
+	font-size:50px;
 }
 
 .menu{
